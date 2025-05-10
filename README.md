@@ -11,8 +11,8 @@ Tetris game for terminal written in Python3.
 
 ## Upcoming
 
-1- Add levels\n
-2- Show time\n
-3- Next piece\n
-4- Side menu \n
-5- Help menu\n
+1- Add levels<br>
+2- Show time<br>
+3- Next piece<br>
+4- Side menu <br>
+5- Help menu<br>
